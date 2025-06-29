@@ -37,12 +37,16 @@ For this Project I set up a wazuh server on a VM to montior a windows 10 endpoin
 
 > All screenshots are located in the `screenshots/` folder.
 
-- `agent-active.png` — Windows machine registered and active in Wazuh
+- `![Uploading image.png…]()
+` — Windows machine registered and active in Wazuh
 - `failed-logins-alert.png` — Alert triggered by repeated failed logins
-- `user-creation-alert.png` — New user account detected
-- `powershell-command-alert.png` — Suspicious PowerShell execution
+- ![Users_added](https://github.com/user-attachments/assets/9d99e5a2-db32-4e27-bb46-c2f3039feca0)
+ — New user account detected
+- `powershell-comma![Uploading Users_added.png…]()
+nd-alert.png` — Suspicious PowerShell execution
 - `log-clearing-alert.png` — Security log tampering alert
-- `dashboard-overview.png` — Wazuh dashboard overview
+-  ![Dashboard_Overview](https://github.com/user-attachments/assets/242e9075-77c3-422a-951a-1a413a8be79a)
+- Wazuh dashboard overview
 
 ---
 
