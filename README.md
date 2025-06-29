@@ -28,8 +28,7 @@ For this Project I set up a wazuh server on a VM to montior a windows 10 endpoin
 |----------|-------------|
 | Brute-force login attempts | Repeated failed login attempts at lock screen | 
 | Unauthorized user creation | Created new local account via command line | 
-| PowerShell misuse | Obfuscated command execution | 
-| Log tampering | Cleared Windows Security event log |
+
 
 ---
 
